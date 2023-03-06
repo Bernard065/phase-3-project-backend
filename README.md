@@ -108,4 +108,7 @@ The following API endpoints are available:
 5. Start the server
 `bundle exec rake server`
 
-Open your browser and go to http://localhost:9292/ to verify that the API is working.
+6. Open your browser and go to http://localhost:9292/ to verify that the API is working.
+
+## Deployment
+[https://phase-3-project-backend-production.up.railway.app/]
